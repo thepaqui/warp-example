@@ -21,3 +21,4 @@ git add warp
 git commit -m "Update warp"
 git push
 ```
+Or just use **`./update_warp.sh`**, it's easier.
