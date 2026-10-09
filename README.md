@@ -5,6 +5,8 @@ This is a basic example project to show how to setup and use `warp`.
 - Open a terminal in the root of this repository and launch `make`
   - I recommend `make -j` for faster compile time
 - Launch the program with `./warp_example`
-- Close the program with the **ESCAPE** key
+- Close the program with the *ESCAPE* key
 
-You should see a spinning wooden crate if everything worked correctly.
+> You should see a spinning wooden crate if everything worked correctly.  
+>
+> You should also be able to freely move the camera with *WASD*, *SPACE* to go up and *LSHIFT* to go down.
