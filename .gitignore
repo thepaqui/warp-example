@@ -1,0 +1,7 @@
+warp/shaders/*.glsl
+*.a
+*.o
+*.swp
+*.swo
+*.out
+warp_example
